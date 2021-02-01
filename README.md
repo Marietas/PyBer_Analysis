@@ -15,7 +15,7 @@ Fig 1. Ride-sharing summary DataFrame by city type
 
 ![](https://github.com/Marietas/PyBer_Analysis/blob/main/Analysis/Summary%20Data%20Frame.PNG)
 
-
+The multiple-line chart of total fares for each city type is presented in the graph below. The results plotted in the graph show that.....
 
 
 
