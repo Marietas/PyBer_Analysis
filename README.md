@@ -12,16 +12,15 @@ When evaluating the Average Fare per Ride vs. Average Fare per Driver, a point t
 
 Fig 1. Ride-sharing summary DataFrame by city type
 
-
 ![](https://github.com/Marietas/PyBer_Analysis/blob/main/Analysis/Summary%20Data%20Frame.PNG)
 
-The multiple-line chart of total fares for each city type is presented in the graph below. The results plotted in the graph show that.....
+The multiple-line chart of total fares for each city type is presented in the graph below. The results plotted in the graph show that there is a peak of demand at the end of February for the three city types. 
+
+Except for the Urban type, the total fare for both the Rural and Suburban types follows a stable behavior from March to April. On the other hand, the Urban’s fare shows an up and downtrend during the same period. 
+Overall, for the period evaluated (January to April), Urban has the highest total fares than the other types due to the demand. 
 
 
-
-
-
-Fig 2. 
+Fig 2. Multiple-line chart of total fares for each city type
 
 ![](https://github.com/Marietas/PyBer_Analysis/blob/main/Analysis/Fig_%20Fare_Summary.png)
 
