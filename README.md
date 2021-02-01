@@ -20,6 +20,7 @@ Fig 1.
 
 Fig 2. 
 
+![](https://github.com/Marietas/PyBer_Analysis/blob/main/Analysis/Fig_%20Fare_Summary.png)
 
 
 
